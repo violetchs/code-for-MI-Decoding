@@ -1,3 +1,3 @@
 # code-for-MI-Decoding
-main.py includes the whole procedure for MI decoding
+main.py includes the whole procedure for MI decoding.\n
 utils.py includes all the functions to process data, plot figures and train model.
